@@ -37,14 +37,14 @@
         #endregion
 
         #region Factorial Number
-        int n = 5;
-        int i = 1;
+        //int n = 5;
+        //int i = 1;
 
-        for(int j = 1; j <= n; j++)
-        {
-            i = i * j;
-        }
-        Console.WriteLine(i);
+        //for(int j = 1; j <= n; j++)
+        //{
+        //    i = i * j;
+        //}
+        //Console.WriteLine(i);
 
         #endregion
 
